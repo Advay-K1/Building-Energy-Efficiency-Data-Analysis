@@ -1,4 +1,4 @@
-#Project Title: Residential Building Energy Efficiency Analysis
+#Project Title: Residential Building Energy Efficiency Analysis#
 ##Overview
 The increasing global concern over climate change has heightened the need for constructing energy-efficient buildings. With more than 50% of residential energy consumption attributed to heating and cooling, accurately determining the energy efficiency of a building during the planning phase is crucial. This project focuses on analyzing UC Irvine's dataset on residential housing structures, aiming to predict heating and cooling loads based on various features.
 
